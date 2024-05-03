@@ -19,7 +19,7 @@ Programacion III**
 
 ## 📄 Documentacion
 
-[Descripcion de las Apis](https://linktodocumentation)
+[Descripcion de las Apis](documentacion/DocumentacionApis.pdf)
 
 [Informe Técnico](https://linktodocumentation)
 
@@ -47,7 +47,7 @@ Programacion III**
     ![copiar_url](capturas/copiar_url.png)
 
 
-- **Abrir Visual Studio y seleccionar "Clonar Repositorio/Clone Repository".**
+- **Abrir Visual Studio y 2seleccionar "Clonar Repositorio/Clone Repository".**
   
     ![copiar_url](capturas/clonar_repositorio.png)
 
