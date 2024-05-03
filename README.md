@@ -27,22 +27,27 @@ Programacion III**
 ## ⚙️ Requisitos
 
 
-- **Instalar [.NET SDK ](https://dotnet.microsoft.com/en-us/download)**  (en caso de no tenerlo)  
+- **Instalar [.NET SDK ](https://dotnet.microsoft.com/en-us/download)**  (en caso de no tenerlo)
+  
 ![](https://kodigo.org/wp-content/uploads/2023/08/dotNET.png)
 
 - **Instalar Visual Studio**
+  
 ![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
 
-- **Instalar las cargas de trabajo ASP.NET y .NET** 
+- **Instalar las cargas de trabajo ASP.NET y .NET**
+  
 ![](https://learn.microsoft.com/es-es/visualstudio/install/media/vs-2022/vs-installer-workloads.png?view=vs-2022)
 
 
 
 ## 🛠 Como ejecutar el programa...
 - Descargar la carpeta del proyecto.
+  
 ![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
 
 - Abrir la carpeta dentro de Visual Studio.
+  
 ![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
 
 - Iniciar Swagger UI.
