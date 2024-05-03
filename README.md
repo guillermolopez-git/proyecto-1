@@ -12,7 +12,7 @@
 **Ingenieria en Sistemas de informacion | 
 Programacion III**
 
-**Carnet | Guillermo Ortiz**
+**0900-22-9686 | Guillermo Antonio Ortiz López**
 
 
 
@@ -42,15 +42,25 @@ Programacion III**
 
 
 ## 🛠 Como ejecutar el programa...
-- Descargar la carpeta del proyecto.
+- **Copiar el URL del Repositorio.**
   
-![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
+    ![copiar_url](capturas/copiar_url.png)
 
-- Abrir la carpeta dentro de Visual Studio.
+
+- **Abrir Visual Studio y seleccionar "Clonar Repositorio/Clone Repository".**
   
-![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
+    ![copiar_url](capturas/clonar_repositorio.png)
 
-- Iniciar Swagger UI.
+- **Pegar el URL y seleccionar la carpeta en la que se guardara el archivo.**
 
-![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
+![copiar_url](capturas/pegar_url.png)
+
+- **Una vez clonado se abrira el proyecto** (si aparece el archivo .sln, doble click sobre el)
+    ![copiar_url](capturas/doble_click.png)
+  
+
+- **Click en la flecha verde y se ejecutara nuestro proyecto**
+  <br>
+     ![copiar_url](capturas/click_ejecutar.png)
+
 
