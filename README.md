@@ -42,24 +42,24 @@ Programacion III**
 
 
 ## 🛠 Como ejecutar el programa...
-- **Copiamos el URL del Repositorio.**
+- **Copiar el URL del Repositorio.**
   
     ![copiar_url](capturas/copiar_url.png)
 
 
-- **Abrimos Visual Studio y seleccionamos "Clonar Repositorio/Clone Repository".**
+- **Abrir Visual Studio y seleccionar "Clonar Repositorio/Clone Repository".**
   
     ![copiar_url](capturas/clonar_repositorio.png)
 
-- **Pegamos el URL y seleccionamos la carpeta en la que querramos guardar el archivo.**
+- **Pegar el URL y seleccionar la carpeta en la que se guardara el archivo.**
 
 ![copiar_url](capturas/pegar_url.png)
 
-- **Una vez clonado se nos abrira el proyecto** (si aparece el arhivo .sln hacer doble click sobre el)
+- **Una vez clonado se abrira el proyecto** (si aparece el archivo .sln, doble click sobre el)
     ![copiar_url](capturas/doble_click.png)
   
 
-- **Hacemos Click en la flecha verde y ejecutamos nuestro proyecto**
+- **Click en la flecha verde y se ejecutara nuestro proyecto**
   <br>
      ![copiar_url](capturas/click_ejecutar.png)
 
