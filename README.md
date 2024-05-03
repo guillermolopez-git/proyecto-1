@@ -12,7 +12,7 @@
 **Ingenieria en Sistemas de informacion | 
 Programacion III**
 
-**Carnet | Guillermo Ortiz**
+**0900-22-9686 | Guillermo Antonio Ortiz López**
 
 
 
