@@ -42,15 +42,25 @@ Programacion III**
 
 
 ## 🛠 Como ejecutar el programa...
-- Descargar la carpeta del proyecto.
+- **Copiamos el URL del Repositorio.**
   
-![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
+    ![copiar_url](capturas/copiar_url.png)
 
-- Abrir la carpeta dentro de Visual Studio.
+
+- **Abrimos Visual Studio y seleccionamos "Clonar Repositorio/Clone Repository".**
   
-![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
+    ![copiar_url](capturas/clonar_repositorio.png)
 
-- Iniciar Swagger UI.
+- **Pegamos el URL y seleccionamos la carpeta en la que querramos guardar el archivo.**
 
-![](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/VisualStudioLogo.webp)
+![copiar_url](capturas/pegar_url.png)
+
+- **Una vez clonado se nos abrira el proyecto** (si aparece el arhivo .sln hacer doble click sobre el)
+    ![copiar_url](capturas/doble_click.png)
+  
+
+- **Hacemos Click en la flecha verde y ejecutamos nuestro proyecto**
+  <br>
+     ![copiar_url](capturas/click_ejecutar.png)
+
 
