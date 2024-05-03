@@ -28,7 +28,7 @@ namespace CodexApp.Controllers
 
                 if (creditCard != null)
                 {
-                    var saldoInfo = _querySaldo.QuerySaldobyPin(pin, creditCard);//* Obtiene la información de saldo de la tarjeta de crédito.
+                    var saldoInfo = _querySaldo.QuerySaldobyPin(creditCard);//* Obtiene la información de saldo de la tarjeta de crédito.
                     if (saldoInfo != null)
                     {
                         return Ok(saldoInfo);//* Devuelve la información de saldo de la tarjeta de crédito.
