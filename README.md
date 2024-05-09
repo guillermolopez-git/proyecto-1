@@ -21,9 +21,9 @@ Programacion III**
 
 ## 📄 Documentacion
 
-[Descripcion de las Apis](documentacion/DocumentacionAPIS.pdf)
+[Descripcion de las Apis](DOCUMENTACION/DocumentacionAPIS.pdf)
 
-[Informe Técnico](documentacion/InformeTecnico.pdf)
+[Informe Técnico](DOCUMENTACION/InformeTecnico.pdf)
 
 
 ## ⚙️ Requisitos
