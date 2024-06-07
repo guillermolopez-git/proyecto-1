@@ -1,0 +1,15 @@
+C:\PROYECTOFINAL\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\PROYECTOFINAL\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\PROYECTOFINAL\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Form2.resources
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Form3.resources
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Form4.resources
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Form5.resources
+C:\PROYECTOFINAL\ProyectoFinal\obj\Debug\ProyectoFinal.Form6.resources
